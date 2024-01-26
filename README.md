@@ -19,6 +19,20 @@ Use the `make_picture.R` script to make a figure using `ggplot2`. The figure sho
 
 When you are done, be sure all changes have been committed and pushed to GitHub and start an issue where you summon me with @AaronGullickson to let me know you are done.
 
-
 ## Writing in Quarto
 
+Choose one of the following research questions:
+
+1. What is the relationship between number of sports played and the number of friend nominations received in the `popularity` dataset?
+2. What is the relationship between movie genre and movie runtime in the `movies` dataset?
+3. What was the relationship between religion and presidential voting in 2016 from the `politics` dataset?
+
+Based on your research question, use the `first_quarto_doc.qmd` file to write a brief report addressing this research question. Your document should include the following:
+
+1. A brief introduction establishing the question and why it is an important question to address (i.e. why should we care). This does not need to be more than one paragraph.
+2. An analysis section that include at least one well captioned and labeled figure and a written description of that figure and the overall relationship.
+3. A brief conclusion that summarizes the results - this should not be more than one paragraph.
+
+No citations are necessary in the document. 
+
+When you are done, be sure all changes have been committed and pushed to GitHub and start an issue where you summon me with @AaronGullickson to let me know you are done.

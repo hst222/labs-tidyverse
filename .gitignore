@@ -14,3 +14,4 @@ desktop.ini
 *.log
 # quarto
 /.quarto/
+*.html
