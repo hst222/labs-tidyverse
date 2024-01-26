@@ -12,6 +12,13 @@ When you are done, be sure all changes have been committed and pushed to GitHub 
 
 ## Making Pretty Pictures
 
+Use the `make_picture.R` script to make a figure using `ggplot2`. The figure should show a relationship and should also have the following elements:
+
+1. Use either color or faceting (or both) to add another dimension to the relationship.
+2. Use good labeling on the figure so that a reader can understand what each variable is and how it is measured.
+
+When you are done, be sure all changes have been committed and pushed to GitHub and start an issue where you summon me with @AaronGullickson to let me know you are done.
+
 
 ## Writing in Quarto
 
